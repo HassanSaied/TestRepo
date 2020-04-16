@@ -1,0 +1,4 @@
+usefulGitConfig.txt
+**/.vscode/*
+**/build/*
+*.exe
